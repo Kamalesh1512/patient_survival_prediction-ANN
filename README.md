@@ -24,4 +24,8 @@ So far, I've built three deep learning models for the classification task. In th
 In the third model, I leveraged Keras Tuner to fine-tune hyperparameters, focusing on minimizing the loss values for both training and validation data. 
 This approach enhanced the model's stability and performance. The conclusion from the final model is that the validation loss significantly decreased, precision and recall metrics improved to some extent, and the model became more generalized. The choice of learning rate and the number of units in the layers was made using proper methods, ensuring a more robust and efficient deep learning model for this critical healthcare classification task.
 
-![image](https://github.com/Kamalesh1512/patient_survival_prediction-ANN/assets/81355463/6cd86d4b-8d97-487a-9011-15454f30195a)
+![image](https://github.com/Kamalesh1512/patient_survival_prediction-ANN/assets/81355463/127e2210-5670-4822-9f9f-63aefe6bbeee)
+
+### Evaultion Metrics:
+
+

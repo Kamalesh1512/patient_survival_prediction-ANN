@@ -27,5 +27,11 @@ This approach enhanced the model's stability and performance. The conclusion fro
 ![image](https://github.com/Kamalesh1512/patient_survival_prediction-ANN/assets/81355463/127e2210-5670-4822-9f9f-63aefe6bbeee)
 
 ### Evaultion Metrics:
+Precision,Recall and ROC Curve is the used performance metrics.
+
+# Summary:
+The project's impact is significant, as it empowers healthcare workers to make informed decisions swiftly, ultimately improving patient survival outcomes. The project involved a comprehensive pipeline, starting from data collection, data preprocessing to handle missing values, and feature engineering, including one-hot encoding and feature scaling. Subsequently, I built three deep learning models, including one for class imbalance, and fine-tuned hyperparameters using Keras Tuner.
+
+The conclusion from the final model is highly promising. The validation loss decreased significantly, and the precision and recall metrics showed improvement. Leveraging precision, recall, and the ROC curve as evaluation metrics ensures a robust and efficient model. Overall, this project is a valuable contribution to healthcare, providing a data-driven approach to support critical decision-making in challenging medical scenarios.
 
 
